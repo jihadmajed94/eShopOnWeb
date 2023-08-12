@@ -1,6 +1,6 @@
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
-# Microsoft eShopOnWeb ASP.NET Core Reference Application
+# Microsoft eShopOnWeb ASP.NET Core Reference Application 565656
 
 Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
 
@@ -83,7 +83,7 @@ You can also run the samples in Docker (see below).
 
     These commands will create two separate databases, one for the store's catalog data and shopping cart information, and one for the app's user credentials and identity data.
 
-1. Run the application.
+1. Run the application.//..
 
     The first time you run the application, it will seed both databases with data such that you should see products in the store, and you should be able to log in using the demouser@microsoft.com account.
 
